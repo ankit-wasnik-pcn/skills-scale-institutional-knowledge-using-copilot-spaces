@@ -20,13 +20,16 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (Security Lead reviews findings)
 - Manual QA for feature acceptance when needed
+- UX validation for user-facing features (UX Designer involved)
+- Infrastructure monitoring and alerting (DevOps Engineer maintains)
 
 ## Reporting & Metrics
 - Track velocity and burndown
-- Monitor success metrics identified in the Project One-pager
+- Monitor success metrics identified in the Project One-pager (with Data Analyst support)
 - Use dashboards for key signals (errors, latency, usage)
+- Review user experience metrics and feedback (UX Designer insights)
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
